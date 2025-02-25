@@ -30,7 +30,7 @@
 
 [Windows / Linux / macOS](https://github.com/stoplightio/prism/releases)
 
-2. Поместите мок-сервер и спецификацию sms-platform.yaml в корневую папку проекта.
+2. Поместите мок-сервер и в корневую папку проекта.
 
 3. Запустите мок-сервер:
    ```bash
