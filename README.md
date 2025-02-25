@@ -28,7 +28,7 @@
 
 1. Скачайте Prism для вашей платформы:
 
-[Windows / Linux / macOS](https://github.com/stoplightio/prism/releases)
+   [Windows / Linux / macOS](https://github.com/stoplightio/prism/releases)
 
 2. Поместите мок-сервер и в корневую папку проекта.
 
