@@ -8,8 +8,8 @@
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/ваш-username/ваш-репозиторий.git
-    cd ваш-репозиторий
+    git clone https://github.com/Maslyukov-A-M-22-IVT-4/CLI-sms-client.git
+    cd CLI-sms-client
     ```
 2. Установите зависимости:
    ```bash
