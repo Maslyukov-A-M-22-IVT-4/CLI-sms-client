@@ -1,0 +1,7 @@
+.venv/
+config.toml
+__pycache__/
+*.pyc
+logs/
+*.log
+.idea/
